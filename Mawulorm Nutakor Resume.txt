@@ -1,0 +1,43 @@
+MAWULORM DZORGBENYUE NUTAKOR
+BUDAPEST, HUNGARY      |      +36 20 376 8049      |      MNUTAKOR22@GMAIL.COM  
+https://www.linkedin.com/in/mawulorm-nutakor-7ab573293/
+Languages Spoken: English, Hungarian, French
+A Business Informatics graduate with hands-on experience in data analysis, systems optimization, and cybersecurity operations. Currently upskilling through ISC2 certification, with a keen interest in bridging the gap between business needs and secure digital infrastructures. Eager to grow under the mentorship of cybersecurity professionals while contributing immediate value through analytical thinking, business process knowledge, and technical acumen.
+
+EDUCATION
+UNIVERSITY OF DEBRECEN						        		          	           Sep 2020 - Jan 2025
+Bachelor of Science | Business Informatics 							            Debrecen, Hungary
+Relevant Coursework: Programming proficiency, Numerical Maths, Statistics and Probability, Business Administration, Database Systems & Data Management, Economics & Finance, Digital Marketing, Computer Security, Cloud Technologies, Operations Research
+* Project: Web Design & Development 
+* Designed & developed a fully functional e-commerce website to establish a musical brand's online presence
+* Integrated user-friendly navigation, secure payment gateways, and responsive design to enhance customer experience and drive online sales
+* Optimized the platform for seamless product showcasing, brand storytelling, and audience engagement, ensuring a strong digital footprint in the competitive e-commerce sector
+SKILLS
+* Python/Anaconda* Azure* PL/SQL* R Programming* JavaScript/CSS/HTML* SAP/SAS/SPSS* Data/Financial Analysis* Advanced Microsoft Excel* Visual Studio Code
+PROFFESIONAL WORK EXPERIENCE
+REDWALL SOLUTIONS LIMITED								             	        May 2024 – Jul 2024
+Cybersecurity Intern										   	       Accra, Ghana
+* Proactively identified, assessed, and mitigated security threats by implementing advanced monitoring and response strategies, strengthening overall cybersecurity posture, and reducing potential breaches by 20%
+* Conducted security assessments that uncovered critical vulnerabilities, leading to a 15% improvement in system security
+* Provided rapid response and containment for security incidents, minimizing downtime and data exposure
+* Led training programs that increased employee compliance with security policies by 15%
+* Ensured regulatory compliance, successfully passing audits with zero major findings
+* Produced in-depth reports that influenced key legislative decisions, enhancing cybersecurity policies
+SERVAIR GHANA LIMITED									         Jan 2019 – May 2019
+Data Analysis & Management Intern								        	       Accra, Ghana	         
+* Optimized sales performance by analyzing daily sales data to identify trends, leading to a 10% increase in revenue and improved decision-making
+* Regulated electronic sales operations by ensuring compliance and efficiency in electronic sales processes at Lincoln Community School & Al Rayan International School, reducing transaction errors by 20%
+* Enhanced inventory accuracy by monitoring POS transactions and inventory, minimizing discrepancies and improving stock accuracy by 10%
+* Developed automated Excel sales reports, reducing reporting time and improving sales forecasting accuracy 
+PROJECTS
+WEB DESIGN & DEVELOPMENT
+* E-Commerce Platform for Music Brand | JavaScript, HTML, CSS, PHP
+o Designed and launched a fully responsive, user-centric website to support the digital and commercial presence of a music brand entering the e-commerce sector.
+o Integrated multimedia elements (audio previews, song artworks) to enhance engagement and brand storytelling.
+o Built and customized key site components using HTML, CSS, JavaScript, and PHP
+ACTIVITY RECOGNITION ANALYSIS
+* Mobile Fitness Applications | Pandas, Seaborn, Matplotlib, Scikit Learn 
+o Utilized a dataset of over 200,000 rows of sensor readings representing user activities like running, sitting, standing, etc. 
+o Conducted Exploratory Data Analysis using Seaborn and Matplotlib to identify outliers and gain insights into the dataset.
+o Employed the SMOTE library to handle imbalanced dataset issues, ensuring fair representation of different activities. 
+o Built three machine learning models (Decision Tree, MLP, and Random Forest) to classify activities after feature selection
